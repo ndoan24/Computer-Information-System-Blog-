@@ -20,9 +20,8 @@ Potential employers
 ## **Technologies to be used:**:
 * HTML
 * CSS
-* Transition
-* Animation
 * Bootstrap
+* Flexbox
 
 
 See it here: 
