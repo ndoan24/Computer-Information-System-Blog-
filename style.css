@@ -1,0 +1,150 @@
+body{
+    height: 100vh;
+    background-color: #EBCA3F;
+  }
+  
+  .container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .blog{
+    width: 1000px;
+    height: 700px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 4px 7px 29px 0px rgba(69,69,69,0.3);
+    margin: 30px;
+  }
+  
+  .img{
+    height: 100%;
+    width: 50%;
+    background: url('images/walle.jpeg');
+    no-repeat center center;
+    background-size: cover
+  }
+  
+  .blog-name{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .blog-name h1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+    cursor: pointer;
+    padding: 10px 30px;
+  }
+  
+  /* .blog-category{
+    background-color: #69B1B5;
+    font-size: 15px;
+    padding: 15px 35px;
+    border-radius: 50px;
+    color: white;
+  } */
+  
+  .details{
+    line-height: 13px;
+  }
+  
+  .details p{
+    font-weight: bold;
+    text-transform: upperCase;
+    font-size: 13px;
+  }
+  
+  .details p span{
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: lowercase;
+  }
+  
+  
+  .firstpara {
+      text-align: center;
+  }
+
+  .h1 {
+      text-align: center;
+  }
+
+
+
+
+
+  body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}
