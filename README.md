@@ -27,4 +27,4 @@ Potential employers
 
 See it here: 
 
-[Computer Information Blog Posts ](https://ndoan24.github.io/Computer-Information-BLog-/)
+[Computer Information Blog Posts ]( https://ndoan24.github.io/Computer-Information-System-Blog-/.)
