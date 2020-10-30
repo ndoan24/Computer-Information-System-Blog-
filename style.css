@@ -25,12 +25,20 @@ body{
     margin: 30px;
   }
   
-  .img{
+  .img1{
     height: 100%;
     width: 50%;
     background: url('images/walle.jpeg');
     background-size: cover
   }
+
+  .img2{
+    height: 100%;
+    width: 50%;
+    background: url('images/internet.jpeg');
+    background-size: cover
+  }
+
   
   .blog-name{
     height: 100%;
