@@ -39,6 +39,12 @@ body{
     background-size: cover
   }
 
+  .img3{
+    height: 100%;
+    width: 50%;
+    background: url('images/hardware.jpeg');
+    background-size: cover
+  }
   
   .blog-name{
     height: 100%;
