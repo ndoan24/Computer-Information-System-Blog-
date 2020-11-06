@@ -45,6 +45,13 @@ body{
     background: url('images/hardware.jpeg');
     background-size: cover
   }
+
+  .img4 {
+    height: 100%;
+    width: 50%;
+    background: url('images/router.jpeg');
+    background-size: cover
+  }
   
   .blog-name{
     height: 100%;
@@ -99,7 +106,16 @@ body{
   }
 
 
-
+  table, td, th {
+    background-color: salmon;
+  border: 5px solid rgba(58, 47, 47, 0.966);
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: left;
+  border-spacing: 3px;
+  margin-top: 85px;
+  }
+  
 
 
   body {
