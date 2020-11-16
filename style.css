@@ -52,6 +52,14 @@ body{
     background: url('images/router.jpeg');
     background-size: cover
   }
+
+
+    .img5 {
+    height: 100%;
+    width: 50%;
+    background: url('images/whatsapp.jpeg');
+    background-size: cover
+  }
   
   .blog-name{
     height: 100%;
