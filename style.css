@@ -60,6 +60,13 @@ body{
     background: url('images/whatsapp.jpeg');
     background-size: cover
   }
+
+  .img6 {
+    height: 100%;
+    width: 50%;
+    background: url('images/security.jpeg');
+    background-size: cover
+  }
   
   .blog-name{
     height: 100%;
