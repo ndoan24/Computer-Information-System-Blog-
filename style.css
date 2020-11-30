@@ -74,6 +74,14 @@ body{
     background: url('images/computerhistory.jpeg');
     background-size: cover
   }
+
+
+  .img8 {
+    height: 100%;
+    width: 50%;
+    background: url('images/catcat.jpeg');
+    background-size: cover
+  }
   
   .blog-name{
     height: 100%;
